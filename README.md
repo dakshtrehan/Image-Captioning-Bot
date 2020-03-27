@@ -8,4 +8,4 @@ Inspired by :- https://towardsdatascience.com/image-captioning-with-keras-teachi
  
  Technology used :- Keras, TensorFlow, Sci-kit Learn, Numpy, Pandas, Matplotlib
  
- Dataset Used :- Flick8K
+ Dataset Used :- Flickr8K
