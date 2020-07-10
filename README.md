@@ -1,5 +1,5 @@
 # Image-Captioning-Bot
-Find me at www.dakshtrehan.com 
+Find me at www.dakshtrehan.com and www.linkedin.com/in/dakshtrehan
 
 The aim is to caption newly feeded images.
 
